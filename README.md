@@ -23,7 +23,7 @@ cd insane
 su -c "mv -i insane.sh    /usr/local/bin/insane.sh"
 
 
-mv -i digitalizar.desktop .local/share/applications/digitalizar.desktop
+mv -i digitalizar.desktop ~/.local/share/applications/digitalizar.desktop
 ```
 
 ## Como usar:
